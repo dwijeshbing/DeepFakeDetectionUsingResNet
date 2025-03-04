@@ -1,0 +1,4 @@
+DataSetPreparation/dataset/*
+DataSetPreparation/Face_Only_Data/*
+DataSetPreparation/Preprocessed_Data/*
+myenv/*
